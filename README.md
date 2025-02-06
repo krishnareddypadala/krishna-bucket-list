@@ -12,7 +12,7 @@
     </style>
 </head>
 <body>
-    <h1>🌟 Krishna's Next 5 Years Bucket List (2026-2030) 🚀</h1>
+    <h1>🌟 Krishna's Bucket List  🚀</h1>
     
     <h2>📚 Personal Growth & Education</h2>
     <ul>
@@ -33,7 +33,7 @@
     <ul>
         <li>✔ Stay 15 days in Kashi</li>
         <li>✔ Explore the pyramids of Egypt</li>
-        <li>✔ Travel to Antarctica for an expedition</li>
+        <li>✔ Travel to see explore northern lights</li>
         <li>✔ Visit Japan and experience its tech culture</li>
         <li>✔ Go on a road trip across India</li>
         <li>✔ Scuba dive in The Great Barrier Reef, Australia</li>
