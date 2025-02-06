@@ -6,9 +6,9 @@
     <title>Krishna's Next 5 Years Bucket List (2026-2030)</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: left; background-color: #f4f4f4; padding: 20px; }
-        h1, h2 { color: #333; }
-        ul { list-style-type: none; padding: 0; }
-        li { background: #fff; margin: 10px 0; padding: 15px; border-radius: 8px; width: 80%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+        h1, h2 { color: #333; text-align: left; }
+        ul { list-style-type: none; padding: 0; margin-left: 20px; }
+        li { background: #fff; margin: 10px 0; padding: 15px; border-radius: 8px; width: 80%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: left; }
     </style>
 </head>
 <body>
@@ -57,7 +57,7 @@
     
     <h2>🎭 Passion & Hobbies</h2>
     <ul>
-        <li>✔ Master a musical instrument (Flute/Guitar/Violin)</li>        
+        <li>✔ Master a musical instrument (Guitar/Violin)</li>
         <li>✔ Start a tech YouTube channel or blog</li>
         <li>✔ Learn photography and capture top 100 travel moments</li>
         <li>✔ Read 50 books in a year</li>
