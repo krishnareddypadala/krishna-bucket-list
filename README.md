@@ -15,7 +15,7 @@
 - [ ] Scuba dive in the Great Barrier Reef  
 
 ## 🏋 Health & Fitness  
-- [ ] Lose 27 kg and maintain a healthy lifestyle  
+- [ ] Reach kg and maintain a healthy lifestyle  
 - [ ] Run a marathon  
 - [ ] Master yoga  
 
