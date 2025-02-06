@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Krishna's Next 5 Years Bucket List (2026-2030)</title>
+    <title>Krishna's Bucket List </title>
     <style>
         body { font-family: Arial, sans-serif; text-align: left; background-color: #f4f4f4; padding: 20px; }
         h1, h2 { color: #333; text-align: left; }
